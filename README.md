@@ -44,7 +44,7 @@ Clone and install
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/your-repo
+
 cd your-repo
 npm install
 Setup .env
